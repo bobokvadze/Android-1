@@ -2,6 +2,10 @@
 
 Our Android To-Do app is the perfect solution for anyone looking to stay organized and on top of their daily tasks. With a clean, user-friendly interface, and intuitive task management features, you'll never miss a deadline again. You can easily add, edit, and manage your tasks and stay on track with your goals.
 
+## Usage
+
+Our Android To-Do app is easy to use and navigate. Upon opening the app, you will be prompted to login with your email and password. Once you have successfully logged in, you will be directed to the main activity page where you can view your tasks and add new ones. You can easily add new tasks by clicking on the '+' button, and the tasks will be displayed on the main page. You can edit or delete tasks by clicking on them. The app is designed to make task management simple and efficient, making it easy to stay on top of your to-do list.
+
 ## Screenshots
 
 <p float="left">
