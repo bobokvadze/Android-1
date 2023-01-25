@@ -12,3 +12,7 @@ A simple yet powerful to-do application for Android, with a sleek user interface
   <img src="https://user-images.githubusercontent.com/73469185/214657347-a6c273ee-926d-492e-8c4a-675dfd2aa7e0.jpg" width="180" height="350">
   <img src="https://user-images.githubusercontent.com/73469185/214657423-cef183bb-bb31-4b30-ac5e-bc98f7fd5021.jpg" width="180" height="350">
 </p>
+
+## Technical Solutions
+
+Components used in the project: Navigation Component, View Pager, Recycler View, Broadcast Receiver, Notifications, Firebase.
