@@ -5,7 +5,7 @@ A simple yet powerful to-do application for Android, with a sleek user interface
 ## Screenshots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/73469185/214656994-519c47c0-7aea-4702-8190-be1aa0ab401a.jpg" width="180" height="350">
+  <img src="https://user-images.githubusercontent.com/73469185/214656994-519c47c0-7aea-4702-8190-be1aa0ab401a.jpg" width="180" height="350" alt="Login Page">
   <img src="https://user-images.githubusercontent.com/73469185/214657288-78afb489-30de-4fc5-a150-eef83429d914.jpg" width="180" height="350">
 </p>
 <p float="left">
@@ -16,3 +16,9 @@ A simple yet powerful to-do application for Android, with a sleek user interface
 ## Technical Solutions
 
 **Components used in the project:** Navigation Component, View Pager, Recycler View, Broadcast Receiver, Notifications, Firebase.
+
+## 
+
+## Last Updated
+
+**25/01/2025**
