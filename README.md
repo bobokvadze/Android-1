@@ -20,5 +20,3 @@ Our Android To-Do app is easy to use and navigate. Upon opening the app, you wil
 ## Technical Solutions
 
 Our Android To-Do app is built using a number of different technologies to provide a seamless and efficient user experience. The Navigation Component is used to handle the app's navigation flow, while the View Pager is used to manage the different screens within the app. The Recycler View is used to display the tasks in a scrollable list, and a Broadcast Receiver is used to handle notifications. Firebase is used to handle user authentication and to store the tasks data.
-
-## 
