@@ -15,4 +15,4 @@ A simple yet powerful to-do application for Android, with a sleek user interface
 
 ## Technical Solutions
 
-Components used in the project: Navigation Component, View Pager, Recycler View, Broadcast Receiver, Notifications, Firebase.
+**Components used in the project:** Navigation Component, View Pager, Recycler View, Broadcast Receiver, Notifications, Firebase.
