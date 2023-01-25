@@ -1,6 +1,6 @@
 # Mobile Application Development for Android - Final Exam
 
-A simple yet powerful to-do application for Android, with a sleek user interface and easy task management features. Organize your tasks and prioritize them with this efficient app.
+Our Android To-Do app is the perfect solution for anyone looking to stay organized and on top of their daily tasks. With a clean, user-friendly interface, and intuitive task management features, you'll never miss a deadline again. You can easily add, edit, and manage your tasks and stay on track with your goals.
 
 ## Screenshots
 
