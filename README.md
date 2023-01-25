@@ -1,8 +1,8 @@
-# flutter_fitness_app
+# Mobile Application Development for Android - Final Exam
 
-project written in Flutter for studying purposes.
+A simple yet powerful to-do application for Android, with a sleek user interface and easy task management features. Organize your tasks and prioritize them with this efficient app.
 
-## Examples
+## Screenshots
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/73469185/214656994-519c47c0-7aea-4702-8190-be1aa0ab401a.jpg" width="180" height="350">
